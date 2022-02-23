@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(228, 193, 225);
+}
+
+p,
+ul,
+ol,
+li {
+    color:rgb(48, 66, 71);
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(240, 215, 225);
+}
